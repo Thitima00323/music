@@ -1,21 +1,18 @@
-# nv-webblog-client
+![Cover Image](https://github.com/petersahanaya/music-app/assets/114085979/d135012e-8cc2-4c13-8954-44a1d7646cce)
 
-> nodejs vuejs webblog client
+### 🎵 P3Music - Music Streaming 
+P3music is a music streaming web application, built with Next Js and other modern technology. I got this inspiration from Spotify Website.
 
-## Build Setup
+### 💡 Features
+* Support Progressive Web App (can be installed in our pc or phone)
+* User Authentication with Oauth 
+* Browse and search songs based on genre and etc
+* Post song as a creator
+* Full audio player functionality.
+* Album, favorite and history for the song that we have hear.
 
-``` bash
-# install dependencies
-npm install
+### 🎥 Video Preview 
+https://github.com/petersahanaya/music-app/assets/114085979/ab461cc4-3097-4bd9-bf4c-b8f71bacdd48
 
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
-```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+### 🕹️ Technology 
+Next Js · React Js · Node Js · Tailwind Css · Zustand · MongoDB · Git
